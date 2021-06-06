@@ -1,5 +1,9 @@
-# Getting Started with Create React App
+# Draggable Carousel in React JS
 
+Responsive draggable carousel. Works on both touch and mouse events.
+
+![x](./regular_low_res.gif)
+![x](./responsive_low_res.gif)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
